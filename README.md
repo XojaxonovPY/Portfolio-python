@@ -24,8 +24,8 @@ Kahoot asosida ishlab chiqilgan test tizimi.
 - [🔗 Repo](https://github.com/XojaxonovPY/Fast-API-Game)
 - 
 
-### 🏆 {Loyiha nomi}  
-📌 **Tavsif:** {loyihaning qisqacha tavsifi — 2-3 jumla}  
+##🏆 LeaderBoard  
+📌 Tavsif: Django Rest Framework asosida yaratilgan, dasturchilar uchun o‘quv jarayonidagi faoliyatni kuzatish va ularning vazifalarini AI yordamida avtomatik tahlil qilib, reyting (leaderboard) tuzuvchi tizim.
 
 **🔹 Texnologiyalar:**  
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
