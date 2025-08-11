@@ -22,3 +22,24 @@ Kahoot asosida ishlab chiqilgan test tizimi.
 - **Texnologiyalar**: FastAPI, PostgreSQL, Redis, Celery, Web-Socket, SQLAlchemiy, Docker
 - **Funktsiyalar**: Real-time testlar, foydalanuvchi statistika, admin panel
 - [🔗 Repo](https://github.com/XojaxonovPY/Fast-API-Game)
+- 
+
+### 🏆 {Loyiha nomi}  
+📌 **Tavsif:** {loyihaning qisqacha tavsifi — 2-3 jumla}  
+
+**🔹 Texnologiyalar:**  
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Django REST](https://img.shields.io/badge/Django%20REST-Framework-green?logo=django)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest)
+![AI](https://img.shields.io/badge/AI-Config-orange)
+
+**🔹 Asosiy xususiyatlar:**  
+- REST API bilan ishlash imkoniyati
+- Docker yordamida konteynerlash
+- AI yordamida avtomatik baholash
+- Reyting tizimi
+- Pytest orqali testlash
+**🔹 Github:** [📂 Kodni ko‘rish]({https://github.com/XojaxonovPY/LeaderBoard})
+
