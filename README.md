@@ -17,8 +17,11 @@ Bu loyihalarda  turli hil backend texnologiyalari yordamida qurilgan.
 | **Tools**        | ![](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![](https://img.shields.io/badge/Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=black&labelColor=green)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **OS**           | ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Linux-fff.svg?style=flat&logo=linux&logoColor=black)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
-### 🏆 {Loyiha nomi}  
-📌 **Tavsif:** {loyihaning qisqacha tavsifi — 2-3 jumla}  
+### 🎮 Fast-API-Game 
+📌 Tavsif: FastAPI yordamida yaratilgan o'yin ilovasi bo'lib, foydalanuvchilarga o'yinlar bilan bog'liq
+ma'lumotlarni taqdim etadi. Ushbu loyiha Python dasturlash tili va FastAPI web freymorkidan foydalangan holda ishlab
+chiqilgan va [**Kahoot**](https://kahoot.com/) — web-saytiga o‘xshatib yaratilgan.
+
 
 **🔹 Texnologiyalar:**  
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
@@ -29,7 +32,7 @@ Bu loyihalarda  turli hil backend texnologiyalari yordamida qurilgan.
 ![Celery](https://img.shields.io/badge/Celery-%2337814A.svg?logo=celery&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white)
 ![SQLAlchemiy](https://img.shields.io/badge/SQLAlchemy-E95420?style=flat&logo=SQLAlchemy)
-
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=websocket&logoColor=white)
 
 **🔹 Asosiy xususiyatlar:**  
 - **FastAPI**: Yuqori samaradorlikka ega web freymorki.
