@@ -43,7 +43,8 @@ chiqilgan va [**Kahoot**](https://kahoot.com/) — web-saytiga o‘xshatib yarat
 - **Starlette Admin**: Starlette yoki FastAPI asosida ma’lumotlar bazasi uchun admin panel yaratish vositasi.
 - **pytest**: Testlarni yozish va bajarish uchun vosita.
 
-**🔹 Github:** [📂 Kodni ko‘rish]({https://github.com/XojaxonovPY/Fast-API-Game})
+**🔹 Github:** 
+[📂 Kodni ko‘rish](https://github.com/XojaxonovPY/Fast-API-Game)
 
 
 ### 🏆 LeaderBoard  
@@ -64,5 +65,6 @@ chiqilgan va [**Kahoot**](https://kahoot.com/) — web-saytiga o‘xshatib yarat
 - AI yordamida avtomatik baholash
 - Reyting tizimi
 - Pytest orqali testlash
-**🔹 Github:** [📂 Kodni ko‘rish]({https://github.com/XojaxonovPY/LeaderBoard})
+**🔹 Github:**
+  [📂 Kodni ko‘rish](https://github.com/XojaxonovPY/LeaderBoard)
 
