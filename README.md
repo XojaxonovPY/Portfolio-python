@@ -65,6 +65,7 @@ chiqilgan va [**Kahoot**](https://kahoot.com/) — web-saytiga o‘xshatib yarat
 - AI yordamida avtomatik baholash
 - Reyting tizimi
 - Pytest orqali testlash
+
 **🔹 Github:**
   [📂 Kodni ko‘rish](https://github.com/XojaxonovPY/LeaderBoard)
 
