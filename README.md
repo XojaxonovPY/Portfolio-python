@@ -12,17 +12,36 @@ Bu loyihalarda  turli hil backend texnologiyalari yordamida qurilgan.
 | **Languages**    | ![](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | **Databases**    | ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white) ![](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white) ![](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)                                                                                                                                                                                                                                                                                                                                                           |
 | **Frontend**     | ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| **Backend**      | ![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![](https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white&labelColor=gray) ![](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![](https://img.shields.io/badge/SQLAlchemy-E95420?style=flat&logo=SQLAlchemy) ![](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![](https://img.shields.io/badge/Aiogram-v3.x-blue?style=flat&logo=telegram&logoColor=white) ![](https://img.shields.io/badge/Celery-%23Clojure?style=flat&logo=Celery&logoColor=Green) ![](https://img.shields.io/badge/Gunicorn-298729?style=flat&logo=gunicorn&logoColor=white) ![](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) |
+| **Backend**      | ![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![](https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white&labelColor=gray) ![](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![](https://img.shields.io/badge/SQLAlchemy-E95420?style=flat&logo=SQLAlchemy) ![](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![](https://img.shields.io/badge/Aiogram-v3.x-blue?style=flat&logo=telegram&logoColor=white) ![](https://img.shields.io/badge/Celery-%23Clojure?style=flat&logo=Celery&logoColor=Green) ![](https://img.shields.io/badge/Gunicorn-298729?style=flat&logo=gunicorn&logoColor=white) ![](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=websocket&logoColor=white) |
 | **DevOps**       | ![](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![](https://img.shields.io/badge/Gitlab%20CI/CD-181717?style=flat&logo=gitlab&logoColor=white) ![](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white) ![](https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                       |
 | **Tools**        | ![](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![](https://img.shields.io/badge/Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=black&labelColor=green)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **OS**           | ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Linux-fff.svg?style=flat&logo=linux&logoColor=black)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
-### 📌 Quiz App
-Kahoot asosida ishlab chiqilgan test tizimi.
-- **Texnologiyalar**: FastAPI, PostgreSQL, Redis, Celery, Web-Socket, SQLAlchemiy, Docker
-- **Funktsiyalar**: Real-time testlar, foydalanuvchi statistika, admin panel
-- [🔗 Repo](https://github.com/XojaxonovPY/Fast-API-Game)
-- 
+### 🏆 {Loyiha nomi}  
+📌 **Tavsif:** {loyihaning qisqacha tavsifi — 2-3 jumla}  
+
+**🔹 Texnologiyalar:**  
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Fast API](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest)
+![Celery](https://img.shields.io/badge/Celery-%2337814A.svg?logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white)
+![SQLAlchemiy](https://img.shields.io/badge/SQLAlchemy-E95420?style=flat&logo=SQLAlchemy)
+
+
+**🔹 Asosiy xususiyatlar:**  
+- **FastAPI**: Yuqori samaradorlikka ega web freymorki.
+- **WebSocket**: Real-vaqtda ulanish va xabar almashish imkoniyati.
+- **Docker**: Ilovani konteynerlash va uni turli muhitlarda ishlatish imkonini beradi.
+- **SQLAlchemy**:Python ORM Bilan (asyns) tarzda ishlaydi va DB bilan malumot almashish tezroq boladi.
+- **Alembic**: Ma'lumotlar bazasidagi o'zgarishlarni boshqarish uchun migratsiya vositasi.
+- **Starlette Admin**: Starlette yoki FastAPI asosida ma’lumotlar bazasi uchun admin panel yaratish vositasi.
+- **pytest**: Testlarni yozish va bajarish uchun vosita.
+
+**🔹 Github:** [📂 Kodni ko‘rish]({https://github.com/XojaxonovPY/Fast-API-Game})
+
 
 ### 🏆 LeaderBoard  
 📌 Tavsif: Django Rest Framework asosida yaratilgan, dasturchilar uchun o‘quv jarayonidagi faoliyatni kuzatish va ularning vazifalarini AI yordamida avtomatik tahlil qilib, reyting (leaderboard) tuzuvchi tizim.
@@ -33,6 +52,7 @@ Kahoot asosida ishlab chiqilgan test tizimi.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=websocket&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Config-orange)
 
 **🔹 Asosiy xususiyatlar:**  
