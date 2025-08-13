@@ -18,6 +18,7 @@ Bu loyihalarda  turli hil backend texnologiyalari yordamida qurilgan.
 | **OS**           | ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Linux-fff.svg?style=flat&logo=linux&logoColor=black)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 ### 🎮 Fast-API-Game 
+
 📌 Tavsif: FastAPI yordamida yaratilgan o'yin ilovasi bo'lib, foydalanuvchilarga o'yinlar bilan bog'liq
 ma'lumotlarni taqdim etadi. Ushbu loyiha Python dasturlash tili va FastAPI web freymorkidan foydalangan holda ishlab
 chiqilgan va [**Kahoot**](https://kahoot.com/) — web-saytiga o‘xshatib yaratilgan.
@@ -44,10 +45,11 @@ chiqilgan va [**Kahoot**](https://kahoot.com/) — web-saytiga o‘xshatib yarat
 - **pytest**: Testlarni yozish va bajarish uchun vosita.
 
 **🔹 Github:** 
+
 [📂 Kodni ko‘rish](https://github.com/XojaxonovPY/Fast-API-Game)
 
-
 ### 🏆 LeaderBoard  
+
 📌 Tavsif: Django Rest Framework asosida yaratilgan, dasturchilar uchun o‘quv jarayonidagi faoliyatni kuzatish va ularning vazifalarini AI yordamida avtomatik tahlil qilib, reyting (leaderboard) tuzuvchi tizim.
 
 **🔹 Texnologiyalar:**  
@@ -60,12 +62,41 @@ chiqilgan va [**Kahoot**](https://kahoot.com/) — web-saytiga o‘xshatib yarat
 ![AI](https://img.shields.io/badge/AI-Config-orange)
 
 **🔹 Asosiy xususiyatlar:**  
-- REST API bilan ishlash imkoniyati
-- Docker yordamida konteynerlash
-- AI yordamida avtomatik baholash
-- Reyting tizimi
-- Pytest orqali testlash
+- **Rest API**: Yuqori samaradorlikka ega va kop imkoniyatli web freymorki.
+- **Docker**: Ilovani konteynerlash va uni turli muhitlarda ishlatish imkonini beradi.
+- **pytest**: Testlarni yozish va bajarish uchun vosita.
+- **AI kpnfiguratsiyasi** oqvchilarni vazifalarini tekshirish va leaderboard shakllantirish
 
 **🔹 Github:**
+
   [📂 Kodni ko‘rish](https://github.com/XojaxonovPY/LeaderBoard)
+
+### 🛍️ MarketBot
+
+## 📌 Tavsif: MarketBo — bu Telegram boti boʻlib, foydalanuvchilarga mahsulotlarni koʻrib chiqish, buyurtma berish va
+toʻlovlarni amalga oshirish imkonini beradi. Click.uz to'lov tizimi. U Aiogram 3 bilan qurilgan, ma'lumotlarni saqlash uchun 
+PostgreSQL-dan foydalanadi va bir nechta tillarni (o'zbek, rus) qo'llab-quvvatlaydi.
+
+**🔹 Texnologiyalar:**  
+
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![Aiogram](https://img.shields.io/badge/Aiogram-v3.x-blue?style=flat&logo=telegram&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
+![SQLAlchemiy](https://img.shields.io/badge/SQLAlchemy-E95420?style=flat&logo=SQLAlchemy)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+**🔹 Asosiy xususiyatlar:**
+
+- **Aiogram**:Python’da yozilgan asinxron Telegram botlarini yaratish uchun yengil va tezkor framework .
+- **Docker**: Ilovani konteynerlash va uni turli muhitlarda ishlatish imkonini beradi.
+- **Alembic**: SQLAlchemy uchun ma’lumotlar bazasi migratsiyalarini boshqarish vositasi.
+- **Starlette Admin**: Starlette yoki FastAPI asosida ma’lumotlar bazasi uchun admin panel yaratish vositasi.
+- **CLick.uz**:Tolov tizimi masovaviy tolov qilish uchun.
+
+**🔹 Github:**
+
+  [📂 Kodni ko‘rish](https://github.com/XojaxonovPY/MarketBot)
+
+
+
 
