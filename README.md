@@ -136,6 +136,8 @@ Ushbu loyiha o‘quv markazlari uchun talabalar, o‘qituvchilar va kurslarni bo
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-%2337814A.svg?logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 **🔹 Asosiy xususiyatlar:**  
