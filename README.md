@@ -126,7 +126,24 @@ Platforma fon vazifalari uchun Seldereydan va ma'lumotlar bazasi sifatida Postgr
 
 [📂 Kodni ko‘rish](https://github.com/XojaxonovPY/100k.uz)
 
+### 📚 O‘quv Markazi Loyihasi
 
+📌 **Tavsif:** 📚 O‘quv Markazi Loyihasi - bu Graphqlda ishlab chiqilgan mahsus datur. 
+Ushbu loyiha o‘quv markazlari uchun talabalar, o‘qituvchilar va kurslarni boshqarish jarayonini avtomatlashtirishga mo‘ljallangan.
 
+**🔹 Texnologiyalar:**  
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
+**🔹 Asosiy xususiyatlar:**  
 
+- **GraphQL** — Yuqori samaradorlikka ega ma’lumot olish va yuborish texnologiyasi. Moslashuvchan so‘rovlar, aniq ma’lumot olish va tarmoq yukini kamaytirish imkonini beradi.
+- **Redis** — Xotirada ishlovchi tezkor ma’lumotlar bazasi. Kesh, navbat va xabar brokeri sifatida keng qo‘llanadi.
+- **Celery** — Asinxron fon vazifalarini bajarish va periodik ishlarni rejalashtirish uchun kuchli Python kutubxonasi.
+- **RabbitMQ** — Xabarlarni uzatish uchun ishonchli broker. Ko‘p komponentli tizimlarda ma’lumotlarni almashish jarayonini boshqaradi.
+- **Docker** — Ilovani konteynerlash orqali turli muhitlarda bir xil ishlashini ta’minlaydi va deploy jarayonini osonlashtiradi.
+
+**🔹 Github:** [📂 Kodni ko‘rish](https://github.com/XojaxonovPY/Training-center)
